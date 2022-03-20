@@ -4,9 +4,9 @@ dca [![Go report](http://goreportcard.com/badge/jonas747/dca)](http://goreportca
 
 This package implements a decoder, encoder and a helper streamer for dca v0 and v1.
 
-[Docs on GoDoc](https://godoc.org/github.com/jonas747/dca)
+[Docs on GoDoc](https://godoc.org/github.com/andrecego/dca)
 
-There's also a standalone command you can use [here](https://github.com/jonas747/dca/tree/master/cmd/dca)
+There's also a standalone command you can use [here](https://github.com/andrecego/dca/tree/master/cmd/dca)
 
 Usage
 ===
